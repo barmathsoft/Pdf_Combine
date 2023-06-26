@@ -1,0 +1,14 @@
+C:\Users\onder.bar\Documents\GitHub\CombinedPdfsByOptional\CombinedPdfsByOptional\bin\Debug\CombinedPdfsByOptional.exe.config
+C:\Users\onder.bar\Documents\GitHub\CombinedPdfsByOptional\CombinedPdfsByOptional\bin\Debug\CombinedPdfsByOptional.exe
+C:\Users\onder.bar\Documents\GitHub\CombinedPdfsByOptional\CombinedPdfsByOptional\bin\Debug\CombinedPdfsByOptional.pdb
+C:\Users\onder.bar\Documents\GitHub\CombinedPdfsByOptional\CombinedPdfsByOptional\bin\Debug\PdfSharp.Charting.dll
+C:\Users\onder.bar\Documents\GitHub\CombinedPdfsByOptional\CombinedPdfsByOptional\bin\Debug\PdfSharp.dll
+C:\Users\onder.bar\Documents\GitHub\CombinedPdfsByOptional\CombinedPdfsByOptional\bin\Debug\PdfSharp.xml
+C:\Users\onder.bar\Documents\GitHub\CombinedPdfsByOptional\CombinedPdfsByOptional\bin\Debug\PdfSharp.Charting.xml
+C:\Users\onder.bar\Documents\GitHub\CombinedPdfsByOptional\CombinedPdfsByOptional\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\onder.bar\Documents\GitHub\CombinedPdfsByOptional\CombinedPdfsByOptional\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\onder.bar\Documents\GitHub\CombinedPdfsByOptional\CombinedPdfsByOptional\obj\Debug\CombinedPdfsByOptional.csproj.AssemblyReference.cache
+C:\Users\onder.bar\Documents\GitHub\CombinedPdfsByOptional\CombinedPdfsByOptional\obj\Debug\CombinedPdfsByOptional.csproj.CoreCompileInputs.cache
+C:\Users\onder.bar\Documents\GitHub\CombinedPdfsByOptional\CombinedPdfsByOptional\obj\Debug\CombinedPdfsByOptional.csproj.CopyComplete
+C:\Users\onder.bar\Documents\GitHub\CombinedPdfsByOptional\CombinedPdfsByOptional\obj\Debug\CombinedPdfsByOptional.exe
+C:\Users\onder.bar\Documents\GitHub\CombinedPdfsByOptional\CombinedPdfsByOptional\obj\Debug\CombinedPdfsByOptional.pdb
